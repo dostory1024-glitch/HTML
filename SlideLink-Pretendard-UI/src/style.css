@@ -229,3 +229,5 @@ button:disabled{cursor:default;opacity:.45}
 @media(max-width:380px){.sl-remote>section{padding:24px 16px}.sl-remote h1{font-size:28px}.sl-timer{padding:20px}.sl-brand{font-size:21px}.sl-header>span{font-size:11px}.sl-remote-tools button{font-size:11px}.sl-scroll button{padding:10px;font-size:12px}}
 @media(prefers-reduced-motion:reduce){button{transition:none}button:active:not(:disabled){transform:none}}
 
+
+.sl-page-count{display:inline-block;margin-left:12px;font-size:13px;color:var(--muted-foreground);font-variant-numeric:tabular-nums}
